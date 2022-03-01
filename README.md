@@ -25,8 +25,6 @@
 - [ ] LED dot Metrix (Solve problem)
 	- [ ] reading the documentation of LED dot Metrix
 	- [ ] 
-
-*Optional*
 - [ ] soldering 
 	- [ ] Learn how to Solder
 	- [ ] Solder motor, LED, 
@@ -44,6 +42,6 @@
 	- [ ] Arduino
 	- [ ] 
 
-*Main task*
+### *Main task*
 - [ ] Daily Activities Routine with alarming including Date, Time slot & current weather.
 - [ ] 
