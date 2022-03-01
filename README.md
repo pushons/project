@@ -25,6 +25,7 @@
 	- [ ] Reading Arduino documentation 
 	- [ ] writing / presenting my learning to my self.
 	- [ ] arduino uno [scematic](https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf) (pdf)
+	- [ ] 
 - [ ] LED dot Metrix (Solve problem)
 	- [ ] reading the documentation of LED dot Metrix
 	- [ ] 
