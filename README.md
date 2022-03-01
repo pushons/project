@@ -1,4 +1,4 @@
-# Action items
+# Project Name : Daily Activities Routine with alarming including Date, Time slot & current weather.
 - [ ] Buying the components
 	- [x] Arduino board
 	- [x] Led dot matrix
