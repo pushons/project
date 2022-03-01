@@ -1,4 +1,7 @@
 # Project Name : Daily Activities Routine with alarming including Date, Time slot & current weather.
+
+Arduino Simulator [link](https://wokwi.com/projects/new/arduino-uno)
+
 ## Project Tasks
 
 - [ ] Buying the components
