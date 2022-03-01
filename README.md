@@ -1,4 +1,6 @@
 # Project Name : Daily Activities Routine with alarming including Date, Time slot & current weather.
+## Project Tasks
+
 - [ ] Buying the components
 	- [x] Arduino board
 	- [x] Led dot matrix
