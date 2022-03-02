@@ -2,6 +2,10 @@
 
 ♾️ Arduino Simulator [link](https://wokwi.com/projects/new/arduino-uno)
 
+### 🚩 *Main task*
+- [ ] Daily Activities Routine with alarming including Date, Time slot & current weather.
+- [ ] 
+
 ## 📋 Project Tasks 
 ### ⚒️ Prep
 - [ ] Buying the components
@@ -46,6 +50,4 @@
 	- [ ] Arduino
 	- [ ] 
 
-### 🚩 *Main task*
-- [ ] Daily Activities Routine with alarming including Date, Time slot & current weather.
-- [ ] 
+
