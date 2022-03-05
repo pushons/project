@@ -17,7 +17,7 @@
 	- [ ] temperature & humidity module (DHT22)
 	- [ ] USB to micro USB cable 
 	- [ ] 
-- [ ] Testing 
+- [x] Testing 
 	- [x] testing modules
 	- [x] setting up the environments
 	- [x] working with the simulator
