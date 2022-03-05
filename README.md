@@ -13,6 +13,7 @@
 	- [x] Led dot matrix
 	- [x] Time module
 	- [x] Bluetooth Module 
+	- [x] Bread board & wires
 	- [ ] Registers 10k ohm
 	- [ ] temperature & humidity module (DHT22)
 	- [ ] USB to micro USB cable 
